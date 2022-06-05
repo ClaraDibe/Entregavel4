@@ -1,8 +1,7 @@
 
-    // let numero;
-    // let cont = 0;
 
-    function primo(numero, cont){
+    function primo(numero){
+        let cont = 0;
         for (let i=1; i<=numero; i++){
             if (numero%i === 0){
                 cont ++;
