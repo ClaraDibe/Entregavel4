@@ -1,0 +1,15 @@
+{
+  "name": "ambientes-de-desenvolvimento-de-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TROCA.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
